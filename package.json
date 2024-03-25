@@ -1,0 +1,35 @@
+{
+  "name": "ThinhMay75-gas-convert",
+  "version": "1.0.0",
+  "description": "ThinhMay75-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Phuocthinh75/ftm-gas-convert.git"
+  },
+  "keywords": [
+    "ftm-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "Phuocthinh75",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phuocthinh75/ThinhMay75-gas-convert/issues"
+  },
+  "homepage": "https://github.com/Phuocthinh75/ThinhMay75-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+    "ThinhMay75-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+	"excel-utils-phuongdh": "^1.0.1",
+	"file-operations-dhp": "^1.0.2"
+  }
+}
